@@ -60,5 +60,5 @@
 [init]
   defaultBranch = master
 [user]
-	name = gauthier marchand
 	email = gauthier.marchand@centrale-marseille.fr
+	name = gauthier marchand
